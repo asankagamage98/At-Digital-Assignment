@@ -7,10 +7,10 @@ import search from '../assets/images/searchRight.svg'
 export default function HomeSections() {
   return (
     <>
-      <main className="container">
+      <main className="container ">
 
         {/* Sec 1  */}
-        <section className="row">
+        <section className="row px-3">
           <div className="col-sm-12 col-md-6 col-lg-6 col-xl-6">
             <img src={pc} alt="" srcset="" className="w-100" />
           </div>
@@ -29,7 +29,7 @@ export default function HomeSections() {
         </section>
 
         {/* Sec 2  */}
-        <section className="row mb-4">
+        <section className="row mb-4 px-3">
           <div className="d-block d-md-none col-sm-12 col-md-6 col-lg-6 col-xl-6 d-flex justify-content-end align-items-center ">
             <img src={search} alt="" srcset="" className="w-100"  />
           </div>
