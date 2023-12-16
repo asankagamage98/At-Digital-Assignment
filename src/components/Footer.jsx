@@ -8,7 +8,7 @@ export default function Footer() {
        {/* Footer  */}
       <footer className="row m-0">
         <div class="row pt-4 ps-5">
-          <div class="col-lg-6 footer2 ">
+          <div class="col-lg-6  ">
               <img src={Logo} alt="" className="" />
               <p className="pt-3 ">
                  Your goal is our target. Not anything in between. 
@@ -16,7 +16,7 @@ export default function Footer() {
                  to achieve single <br/> objective - your business results.
               </p>
           </div>
-          <div class="col-lg-3 col-xl-3 col-md-6 col-sm-12  ">
+          <div class="col-lg-3 col-xl-3 col-md-6 col-sm-12  mt-4 mt-md-0">
              <h3>Our Technologies</h3>
              <p>React JS</p>
              <p>Gatsby</p>
@@ -25,7 +25,7 @@ export default function Footer() {
              <p>GraphQL</p>
              <p>Laravel</p>
           </div>
-          <div class="col-lg-3 col-xl-3 col-md-6 col-sm-12 ">
+          <div class="col-lg-3 col-xl-3 col-md-6 col-sm-12 mt-4 mt-md-0">
              <h3>Our Services</h3>
              <p>Social media Marketing</p>
              <p>Web & Mobile App Development</p>

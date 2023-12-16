@@ -4,8 +4,7 @@
     font-size: 27px;
     font-weight: 600;
     line-height: 33px;
-    letter-spacing: 0.4000000059604645px;
-    margin-top: 120px;
+   
  }
 .para{
   font-family: Inter;
@@ -34,8 +33,17 @@
   text-align: center;
 }
 
+.rs-btn-align {
+  display: flex;
+  justify-content: center;
+}
+
 @media screen and (min-width: 376px) {
   .default-rs-text-align {
     text-align: left;
+  }
+
+  .rs-btn-align {
+    display: block;
   }
 }
