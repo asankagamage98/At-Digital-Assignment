@@ -1,0 +1,31 @@
+.buttonOne{
+    width:174px;
+    height:35px;
+    font-weight:700;
+    line-height: 14px;
+    border: none;
+    padding: 12px, 20px, 12px, 20px;
+    background-color: #F28D35;
+    color: white;
+    border-radius: 4px;
+}
+
+.buttonTwo{
+    width: 129px;
+    height: 38px;
+    padding: 12px, 20px, 12px, 20px;
+    border-radius: 4px;
+    gap: 8px;
+    background-color: #F28D35 ;
+    color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: -0.02em;
+    
+
+}
+
+
+

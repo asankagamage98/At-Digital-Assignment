@@ -1,0 +1,19 @@
+footer{
+    background-color: #6B3CC9 ;
+    color: white;
+}
+
+.footer2{
+    padding-left: 100px;
+}
+
+.footer3{
+    border-top: 2px solid white; 
+    width:20%; 
+}
+
+
+.rs-line {
+    border-top: 2px solid white;
+    text-align: center;
+}
