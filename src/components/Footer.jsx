@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <>
        {/* Footer  */}
-      <footer className="row ">
+      <footer className="row m-0">
         <div class="row pt-4 ps-5">
           <div class="col-lg-6 footer2 ">
               <img src={Logo} alt="" className="" />
